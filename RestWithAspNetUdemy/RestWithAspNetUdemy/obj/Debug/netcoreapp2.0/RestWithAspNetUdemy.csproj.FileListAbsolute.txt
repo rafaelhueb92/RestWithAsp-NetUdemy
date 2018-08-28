@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.0\RestWithAspNetUdemy.deps.json
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.0\RestWithAspNetUdemy.runtimeconfig.json
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.0\RestWithAspNetUdemy.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.0\RestWithAspNetUdemy.dll
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.0\RestWithAspNetUdemy.pdb
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.0\RestWithAspNetUdemy.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.0\RestWithAspNetUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.0\RestWithAspNetUdemy.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.0\RestWithAspNetUdemy.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.0\RestWithAspNetUdemy.dll
+C:\Users\Rafael\Desktop\ProjetosBit\AspCoreUdemy\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.0\RestWithAspNetUdemy.pdb

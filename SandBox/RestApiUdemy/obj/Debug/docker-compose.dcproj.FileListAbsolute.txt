@@ -1,0 +1,1 @@
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

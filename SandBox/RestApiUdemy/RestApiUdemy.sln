@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiUdemy", "RestApiUdemy\RestApiUdemy.csproj", "{E47E92CA-657D-48AE-A5EA-910C748BCDD0}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{EB931AFF-42C8-428C-8678-4908DE813AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47E92CA-657D-48AE-A5EA-910C748BCDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47E92CA-657D-48AE-A5EA-910C748BCDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47E92CA-657D-48AE-A5EA-910C748BCDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47E92CA-657D-48AE-A5EA-910C748BCDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB931AFF-42C8-428C-8678-4908DE813AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB931AFF-42C8-428C-8678-4908DE813AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB931AFF-42C8-428C-8678-4908DE813AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB931AFF-42C8-428C-8678-4908DE813AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA2F283-7B87-432F-980D-E94723650E26}
+	EndGlobalSection
+EndGlobal

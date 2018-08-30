@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  restapiudemy:
+    image: restapiudemy
+    build:
+      context: .
+      dockerfile: RestApiUdemy\Dockerfile

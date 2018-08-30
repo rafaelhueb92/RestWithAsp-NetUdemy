@@ -1,0 +1,11 @@
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\bin\Debug\netcoreapp2.0\RestApiUdemy.deps.json
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\bin\Debug\netcoreapp2.0\RestApiUdemy.runtimeconfig.json
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\bin\Debug\netcoreapp2.0\RestApiUdemy.runtimeconfig.dev.json
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\bin\Debug\netcoreapp2.0\RestApiUdemy.dll
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\bin\Debug\netcoreapp2.0\RestApiUdemy.pdb
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\obj\Debug\netcoreapp2.0\RestApiUdemy.csprojResolveAssemblyReference.cache
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\obj\Debug\netcoreapp2.0\RestApiUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\obj\Debug\netcoreapp2.0\RestApiUdemy.AssemblyInfoInputs.cache
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\obj\Debug\netcoreapp2.0\RestApiUdemy.AssemblyInfo.cs
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\obj\Debug\netcoreapp2.0\RestApiUdemy.dll
+C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy\RestApiUdemy\obj\Debug\netcoreapp2.0\RestApiUdemy.pdb

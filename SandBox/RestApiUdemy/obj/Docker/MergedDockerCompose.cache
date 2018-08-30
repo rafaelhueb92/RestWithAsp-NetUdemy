@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  restapiudemy:
+    build:
+      context: C:\Users\Rafael.Hueb\Projetos\UdemyCore2\SandBox\RestApiUdemy
+      dockerfile: RestApiUdemy\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: restapiudemy
+    ports:
+    - 80/tcp
+version: '3.0'

@@ -4,25 +4,44 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using RestApiUdemy.Model;
+using RestApiUdemy.Model.Context;
 
 namespace RestApiUdemy.Services.Implementations
 {
 
     public class PersonServiceImplementation : IPersonService
     {
+
+        private MySQLContext _context;
+
+        public PersonServiceImplementation(MySQLContext context)
+        {
+            _context = context;
+        }
+
         private volatile int count;
 
         public Person Create(Person person)
         {
+
+            try
+            {
+
+                _context.Add(person);
+
+                _context.SaveChanges();
+
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
             return person;
-        }
-
-        public void Delete(long id)
-        {
-
-            
 
         }
+
+        public void Delete(long id) { }
 
         private Person MockPerson(int i)
         {

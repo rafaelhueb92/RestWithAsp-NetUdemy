@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace RestApiUdemy.Services
 {
 
-    interface IPersonService
+    public interface IPersonService
     {
 
         Person Create(Person person);
